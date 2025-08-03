@@ -1,0 +1,18 @@
+# Virtuelles Environment
+# Das venv-Verzeichnis ist systemabhängig und sollte nie versioniert werden.
+venv/
+
+# Python-Cache
+# Automatisch generierte Bytecode-Dateien.
+__pycache__/
+*.pyc
+
+# Editor-spezifische Dateien
+# Temporäre Swap-Dateien von vim/neovim.
+*.swp
+*~
+
+# Projektdaten
+# Große Bilddateien gehören nicht in ein Git-Repository.
+originale/
+resized/
